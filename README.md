@@ -1,1 +1,1 @@
-# cholestorol
+# cholesterol
